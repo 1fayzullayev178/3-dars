@@ -1,0 +1,35 @@
+table,
+tr,
+td,
+th {
+  border: 1px solid black;
+}
+
+table {
+  height: 200px;
+  width: 850px;
+  margin-left: 22%;
+}
+h3 {
+  text-align: center;
+  background-color: aqua;
+  width: 850px;
+  height: 30px;
+  margin-left: 22%;
+}
+th {
+  background-color: yellow;
+}
+.td {
+  text-align: center;
+}
+.td2 {
+  text-align: center;
+  background-color: red;
+  color: white;
+}
+.td1 {
+  background-color: green;
+  text-align: center;
+  color: white;
+}
